@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/RunningSumof1dArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/RichestCustomerWealth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691760804028</updated>
       <workItem from="1691760805364" duration="1152000" />
-      <workItem from="1691771431260" duration="370000" />
+      <workItem from="1691771431260" duration="828000" />
     </task>
     <servers />
   </component>
