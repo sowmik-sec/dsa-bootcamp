@@ -24,10 +24,7 @@ public class HowManyNumbersAreSmallerThanTheCurrentNumber {
         ans = Arrays.copyOf(nums, nums.length);
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {
-            Integer temp = map.get(nums[i]);
-            if(temp==null) {
-                map.put(nums[i], i);
-            }
+            map.putIfAbsent(nums[i], i);
         }
         for (int i = 0; i < nums.length; i++) {
             ans[i] = map.get((ans[i]));
