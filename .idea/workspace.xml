@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/CheckIfTheSentenceIsPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/CountItemsMatchingARule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691760804028</updated>
       <workItem from="1691760805364" duration="1152000" />
-      <workItem from="1691771431260" duration="13326000" />
+      <workItem from="1691771431260" duration="15427000" />
     </task>
     <servers />
   </component>
