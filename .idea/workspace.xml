@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/FindTheHeightAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/FlippingAnImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckIfTheSentenceIsPangram">
+  <component name="RunManager" selected="Application.FlippingAnImage">
     <configuration name="CheckIfTheSentenceIsPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.CheckIfTheSentenceIsPangram" />
       <module name="dsa-bootcamp" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyNumbersAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.HowManyNumbersAreSmallerThanTheCurrentNumber" />
+    <configuration name="FlippingAnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.FlippingAnImage" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumof1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.RunningSumof1dArray" />
+    <configuration name="HowManyNumbersAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.HowManyNumbersAreSmallerThanTheCurrentNumber" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlippingAnImage" />
         <item itemvalue="Application.CheckIfTheSentenceIsPangram" />
         <item itemvalue="Application.CreateTargetArrayInTheGivenOrder" />
         <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
         <item itemvalue="Application.ShuffleTheArray" />
-        <item itemvalue="Application.RunningSumof1dArray" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691760804028</updated>
       <workItem from="1691760805364" duration="1152000" />
-      <workItem from="1691771431260" duration="15838000" />
+      <workItem from="1691771431260" duration="17522000" />
     </task>
     <servers />
   </component>
@@ -160,6 +161,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/sowmik/arrays/easy/FlippingAnImage.java</url>
+          <line>5</line>
+          <properties class="com.sowmik.arrays.easy.FlippingAnImage" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
