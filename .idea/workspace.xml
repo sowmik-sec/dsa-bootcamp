@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlippingAnImage">
+  <component name="RunManager" selected="Application.AddToArrayFormOfInteger">
+    <configuration name="AddToArrayFormOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.AddToArrayFormOfInteger" />
+      <module name="dsa-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sowmik.arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckIfTheSentenceIsPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.CheckIfTheSentenceIsPangram" />
       <module name="dsa-bootcamp" />
@@ -101,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.ShuffleTheArray" />
-      <module name="dsa-bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sowmik.arrays.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddToArrayFormOfInteger" />
         <item itemvalue="Application.FlippingAnImage" />
         <item itemvalue="Application.CheckIfTheSentenceIsPangram" />
         <item itemvalue="Application.CreateTargetArrayInTheGivenOrder" />
         <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
-        <item itemvalue="Application.ShuffleTheArray" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,7 @@
       <workItem from="1691760805364" duration="1152000" />
       <workItem from="1691771431260" duration="18158000" />
       <workItem from="1691941249237" duration="1447000" />
-      <workItem from="1691992963170" duration="1426000" />
+      <workItem from="1691992963170" duration="4487000" />
     </task>
     <servers />
   </component>
