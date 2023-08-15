@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/MaximumPopulationYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/easy/DetermineWhetherMatrixCanBeObtainedByRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2TqBbkizR0t7Eg3spajOcXQvKmy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,7 +137,8 @@
       <workItem from="1691771431260" duration="18158000" />
       <workItem from="1691941249237" duration="1447000" />
       <workItem from="1691992963170" duration="5319000" />
-      <workItem from="1692071783474" duration="2251000" />
+      <workItem from="1692071783474" duration="3860000" />
+      <workItem from="1692077905720" duration="761000" />
     </task>
     <servers />
   </component>
