@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/medium/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/arrays/medium/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +145,7 @@
       <workItem from="1692272874987" duration="1935000" />
       <workItem from="1692364829004" duration="8387000" />
       <workItem from="1692415233281" duration="2933000" />
+      <workItem from="1692421241530" duration="2719000" />
     </task>
     <servers />
   </component>
