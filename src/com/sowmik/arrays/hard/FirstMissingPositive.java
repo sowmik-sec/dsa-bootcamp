@@ -1,6 +1,7 @@
 package com.sowmik.arrays.hard;
 
 
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -9,18 +10,19 @@ public class FirstMissingPositive {
 
     }
     public int firstMissingPositive(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        for (int i = 0; i < nums.length; i++) {
-            if(nums[i]>0) {
-                set.add(nums[i]);
+        int i=0;
+        while(i<nums.length) {
+            if(nums[i]>0 && nums[i]<nums.length && nums[i]!=nums[nums[i]-1]) {
+                int temp = nums[i];
+                nums[i] = nums[nums[i]-1];
+                nums[temp-1] = temp;
             }
+            else i++;
         }
-        int i;
-        for( i=1;i<nums.length;i++) {
-            if(!set.contains(i)) {
-                return i;
-            }
+        int j;
+        for (j = 0; j < nums.length; j++) {
+            if(nums[j]!=j+1) return j+1;
         }
-        return i;
+        return j+1;
     }
 }
