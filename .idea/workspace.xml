@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/OrderAgnosticBS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="AddToArrayFormOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.easy.AddToArrayFormOfInteger" />
-      <module name="dsa-bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sowmik.arrays.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OrderAgnosticBS">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.BinarySearch" />
       <module name="dsa-bootcamp" />
@@ -114,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.OrderAgnosticBS" />
+      <module name="dsa-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sowmik.searching.fundamental.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderAgnosticBS" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.JumpGame" />
         <item itemvalue="Application.FindNUniqueIntegersSumUpToZero" />
         <item itemvalue="Application.MaximumPopulationYear" />
-        <item itemvalue="Application.AddToArrayFormOfInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1692421241530" duration="6334000" />
       <workItem from="1692507699553" duration="13457000" />
       <workItem from="1692597692955" duration="2223000" />
-      <workItem from="1692684572895" duration="645000" />
+      <workItem from="1692684572895" duration="1776000" />
     </task>
     <servers />
   </component>
