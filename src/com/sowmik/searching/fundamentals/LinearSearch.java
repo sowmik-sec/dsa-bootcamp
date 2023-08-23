@@ -1,4 +1,4 @@
-package com.sowmik.searching.fundamental;
+package com.sowmik.searching.fundamentals;
 
 public class LinearSearch {
     public static void main(String[] args) {

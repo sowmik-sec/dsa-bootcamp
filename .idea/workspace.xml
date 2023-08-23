@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/searching/easy/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/CeilingOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/CeilingOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/FloorOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/FloorOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/fundamental/OrderAgnosticBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/OrderAgnosticBS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +54,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CeilingOfANumber">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sowmik.searching.fundamental" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FloorOfANumber">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.BinarySearch" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sowmik.searching.fundamental.*" />
+          <option name="PATTERN" value="com.sowmik.searching.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.CeilingOfANumber" />
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.CeilingOfANumber" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sowmik.searching.fundamental.*" />
+          <option name="PATTERN" value="com.sowmik.searching.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.arrays.medium.JumpGame" />
+    <configuration name="FloorOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.FloorOfANumber" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sowmik.arrays.medium.*" />
+          <option name="PATTERN" value="com.sowmik.searching.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.LinearSearch" />
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.LinearSearch" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sowmik.searching.fundamental.*" />
+          <option name="PATTERN" value="com.sowmik.searching.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="OrderAgnosticBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamental.OrderAgnosticBS" />
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.OrderAgnosticBS" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sowmik.searching.fundamental.*" />
+          <option name="PATTERN" value="com.sowmik.searching.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloorOfANumber" />
         <item itemvalue="Application.CeilingOfANumber" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.OrderAgnosticBS" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.JumpGame" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +159,7 @@
       <workItem from="1692507699553" duration="13457000" />
       <workItem from="1692597692955" duration="2223000" />
       <workItem from="1692684572895" duration="2099000" />
-      <workItem from="1692796993416" duration="731000" />
+      <workItem from="1692796993416" duration="2659000" />
     </task>
     <servers />
   </component>
