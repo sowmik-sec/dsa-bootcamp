@@ -1,4 +1,4 @@
-package com.sowmik.arrays.medium;
+package com.sowmik.searching.medium;
 
 public class FindFirstAndLastPositionOfElementInSortedArray {
     public static void main(String[] args) {
