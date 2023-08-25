@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="539d11a7-8e4b-4480-a28e-4407129ed1a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sowmik/searching/fundamentals/FindInAnInfiniteArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sowmik/searching/medium/FindFirstAndLastPositionOfElementInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sowmik/searching/medium/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,9 @@
       <recent name="com.sowmik.searching.fundamental" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FloorOfANumber">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.BinarySearch" />
+  <component name="RunManager" selected="Application.FindInAnInfiniteArray">
+    <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.CeilingOfANumber" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.CeilingOfANumber" />
+    <configuration name="FindInAnInfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sowmik.searching.fundamentals.FindInAnInfiniteArray" />
       <module name="dsa-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindInAnInfiniteArray" />
         <item itemvalue="Application.FloorOfANumber" />
         <item itemvalue="Application.CeilingOfANumber" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.OrderAgnosticBS" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <workItem from="1692507699553" duration="13457000" />
       <workItem from="1692597692955" duration="2223000" />
       <workItem from="1692684572895" duration="2099000" />
-      <workItem from="1692796993416" duration="4575000" />
+      <workItem from="1692796993416" duration="5952000" />
     </task>
     <servers />
   </component>
